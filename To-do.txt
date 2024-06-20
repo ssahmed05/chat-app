@@ -1,0 +1,5 @@
+1- Create Nest app.
+2- Create Next app.
+3- Do Auth 
+4- Setup frontend for chat.
+5- Setup backend for chat
